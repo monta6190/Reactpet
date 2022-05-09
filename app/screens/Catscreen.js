@@ -1,6 +1,5 @@
 
 import React from 'react';
-import AnimalInput from './AnimalInput';
 import { View, Text,TextInput,Image,TouchableOpacity,StyleSheet } from 'react-native';
 const Catscreen = () => {
   return (

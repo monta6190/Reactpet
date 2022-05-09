@@ -4,7 +4,6 @@ import petl from "../../assets/images/pet2logo.png";
 import axios from 'axios';
 import { SafeAreaView } from "react-native-safe-area-context";
 
-import AnimalInput from './AnimalInput';
 import Petchoose from './Petchoose';
 
 
